@@ -155,8 +155,8 @@ Alternatively, you could fetch the data directly in `/src/routes/+page.svelte` w
 
 In your `+page.svelte` file, you can access the data like this:
 
-```typescript
-// src/routes/+page.svelte
+```svelte
+<!-- src/routes/+page.svelte -->
 <script lang="ts">
     let { data } = $props();
 </script>
@@ -198,8 +198,8 @@ export async function load({ params }) {
 
 In `[slug]/+page.svelte`, retrieve your data with `props` and render the content using `marked`:
 
-```typescript
-// src/routes/[slug]/+page.svelte
+```svelte
+<!-- src/routes/[slug]/+page.svelte -->
 <script lang="ts">
     import { marked } from "marked";
 
