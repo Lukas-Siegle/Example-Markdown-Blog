@@ -1,13 +1,13 @@
 ---
 title: Creating a Markdown Blog with SvelteKit
 date: '2024-11-05'
-description: 'How to create a Markdown Blog with SvelteKit and Marked'
+description: 'Consectetur adipiscing elit'
 author: 'Lukas Siegle'
 tags: ['SvelteKit', 'Markdown']
 ---
 
 
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Vestibulum vitae eros euismod, placerat ex a, consectetur quam. Sed lacinia auctor odio, non lacinia felis ullamcorper vel. Mauris venenatis interdum ipsum, sed condimentum elit accumsan a. 
+**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Vestibulum vitae eros euismod, placerat ex a, consectetur quam. Sed lacinia auctor odio, non lacinia felis ullamcorper vel. Mauris venenatis interdum ipsum, sed condimentum elit accumsan.
 
 ## Lorem ipsum
 
