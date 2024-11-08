@@ -1,10 +1,4 @@
----
-title: Creating a Markdown Blog with Sveltekit
-date: '2024-11-05'
-description: 'This is my first blog post about creating a blog with Sveltekit'
-author: 'Lukas Siegle'
-tags: ['Sveltekit', 'Markdown']
----
+
 ## Prerequisites
 - SvelteKit basic knowledge
 - 25 minutes of your time
